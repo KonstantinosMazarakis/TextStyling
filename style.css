@@ -1,0 +1,24 @@
+h1 {
+    background-color: black;
+    color: white;
+    font-family: cursive;
+}
+
+span {
+    color: aqua;
+}
+
+h2 {
+    color: white;
+    background-color: purple;
+    text-align: center;
+}
+
+h3 {
+    color: rebeccapurple;
+    background-color: lightblue;
+    text-align: right;
+    text-decoration: underline;
+    font-family: monospace;
+
+}
